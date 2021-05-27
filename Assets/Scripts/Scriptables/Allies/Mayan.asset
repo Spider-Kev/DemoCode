@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ee6c70fbe919477ca0eede03ea14883, type: 3}
+  m_Name: Mayan
+  m_EditorClassIdentifier: 
+  prefabCharacter: {fileID: 1012157306204798527, guid: adaf4217359f343dba041f5362701db6,
+    type: 3}
+  totalHealt: 0
+  damage: 26
+  speed: 6
+  timeBetweenAttack: 0.4
+  nameCharacter: 
+  iconCharacter: {fileID: 21300000, guid: 3111e778ac195a74796cb3bd03446203, type: 3}
+  spawnCost: 15
+  timeToRespawn: 4
+  currentLevel: 0
+  unlockAtStage: 5
+  levelsForThisCharacter:
+    levels:
+    - updateCost: 0
+      damage: 26
+      health: 48
+    - updateCost: 20
+      damage: 37
+      health: 67
+    - updateCost: 40
+      damage: 50
+      health: 88
+    - updateCost: 80
+      damage: 65
+      health: 111
+    - updateCost: 160
+      damage: 86
+      health: 136

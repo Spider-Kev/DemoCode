@@ -1,0 +1,42 @@
+{
+    "currentStage": 0,
+    "gemsCollected": 0,
+    "unlockedCharacters": [
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        },
+        {
+            "unlocked": false,
+            "level": 0
+        }
+    ]
+}
